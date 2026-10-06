@@ -123,7 +123,7 @@ python -c "import flask, numpy, scipy; print('All core packages installed succes
 ### Starting the Application
 
 ```powershell
-python run.py
+python app.py
 ```
 
 The application will start on **http://localhost:5000**
